@@ -1,4 +1,4 @@
-# study-group
+# travel-map
 
 ## Project setup
 ```
